@@ -1,92 +1,91 @@
-[
-    {
-        "id": 1,
-        "user": "@ben",
-        "latitude": 38.918722,
-        "longitude": -77.231092
-    },
-    {
-        "id": 2,
-        "user": "@tania",
-        "latitude": 41.989573,
-        "longitude": -87.656386
-    },
-    {
-        "id": 3,
-        "user": "@curtiplas",
-        "latitude": 42.577556,
-        "longitude": -83.128320
-    },
-    {
-        "id": 4,
-        "user": "@mike",
-        "latitude": 32.784256,
-        "longitude": -96.784756
-    },
-    {
-        "id": 5,
-        "user": "@craig",
-        "latitude": 55.962922,
-        "longitude": -3.201772
-    },
-    {
-        "id": 6,
-        "user": "@dave2kb",
-        "latitude": 49.884193,
-        "longitude": -97.166401
-    },
-    {
-        "id": 7,
-        "user": "@ryan",
-        "latitude": 26.552384,
-        "longitude": -81.846632
-    },
-    {
-        "id": 8,
-        "user": "@evilrecruiter",
-        "latitude": 53.349805,
-        "longitude": -6.260310
-    },
-    {
-        "id": 9,
-        "user": "@simonb",
-        "latitude": 57.650000,
-        "longitude": 12.016667
-    },
-    {
-        "id": 10,
-        "user": "@zeitgeist",
-        "latitude": 52.544273, 
-        "longitude": 13.411560
-    },
-    {
-        "id": 11,
-        "user": "@joao",
-        "latitude": 41.545475, 
-        "longitude": -8.424725
-    },
-    {
-        "id": 12,
-        "user": "@tracypholmes",
-        "latitude": 30.267153, 
-        "longitude": -97.743061
-    },
-    {
-        "id": 13,
-        "user": "@amykotas",
-        "latitude": 43.163687, 
-        "longitude": -73.072327
-    },
-    {
-        "id": 14,
-        "user": "@radhika",
-        "latitude": 43.156578,
-        "longitude": -77.608847
-    },
-    {
-        "id: 15,
-        "user": "@phavor",
-        "latitude": 5.527940,
-        "longitude": 7.494460
-    }
+[{
+		"id": 1,
+		"user": "@ben",
+		"latitude": 38.918722,
+		"longitude": -77.231092
+	},
+	{
+		"id": 2,
+		"user": "@tania",
+		"latitude": 41.989573,
+		"longitude": -87.656386
+	},
+	{
+		"id": 3,
+		"user": "@curtiplas",
+		"latitude": 42.577556,
+		"longitude": -83.128320
+	},
+	{
+		"id": 4,
+		"user": "@mike",
+		"latitude": 32.784256,
+		"longitude": -96.784756
+	},
+	{
+		"id": 5,
+		"user": "@craig",
+		"latitude": 55.962922,
+		"longitude": -3.201772
+	},
+	{
+		"id": 6,
+		"user": "@dave2kb",
+		"latitude": 49.884193,
+		"longitude": -97.166401
+	},
+	{
+		"id": 7,
+		"user": "@ryan",
+		"latitude": 26.552384,
+		"longitude": -81.846632
+	},
+	{
+		"id": 8,
+		"user": "@evilrecruiter",
+		"latitude": 53.349805,
+		"longitude": -6.260310
+	},
+	{
+		"id": 9,
+		"user": "@simonb",
+		"latitude": 57.650000,
+		"longitude": 12.016667
+	},
+	{
+		"id": 10,
+		"user": "@zeitgeist",
+		"latitude": 52.544273,
+		"longitude": 13.411560
+	},
+	{
+		"id": 11,
+		"user": "@joao",
+		"latitude": 41.545475,
+		"longitude": -8.424725
+	},
+	{
+		"id": 12,
+		"user": "@tracypholmes",
+		"latitude": 30.267153,
+		"longitude": -97.743061
+	},
+	{
+		"id": 13,
+		"user": "@amykotas",
+		"latitude": 43.163687,
+		"longitude": -73.072327
+	},
+	{
+		"id": 14,
+		"user": "@radhika",
+		"latitude": 43.156578,
+		"longitude": -77.608847
+	},
+	{
+		"id": 15,
+		"user": "@phavor",
+		"latitude": 5.527940,
+		"longitude": 7.494460
+	}
 ]
